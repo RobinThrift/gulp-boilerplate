@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+
+# NPM
+node_modules
+
+# POJECT
+build
+tmp
